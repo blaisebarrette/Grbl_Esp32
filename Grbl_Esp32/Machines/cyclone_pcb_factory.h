@@ -11,7 +11,7 @@
    #define Y_LIMIT_PIN                 GPIO_NUM_4
    #define Z_LIMIT_PIN                 GPIO_NUM_15
 
-   //#define LIMIT_MASK                  B111
+   #define LIMIT_MASK                  B111
 
    #define STEPPERS_DISABLE_PIN        GPIO_NUM_32
 
